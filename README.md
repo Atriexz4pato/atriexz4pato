@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫Get to know more about  Kunga Malombe:
 I'm currently working on Daraja API integration to a licensing application using laravel <br>I'm looking for help in integrating the same<br>I'm currently learning VueJs<br>Ak me about laravel and java<br>The first 1GB hard drive, introduced by IBM in 1980, weighed over 500 pounds and cost around $40,000.
 
 
