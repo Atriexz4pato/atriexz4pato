@@ -1,6 +1,9 @@
 # 💫Get to know more about  Kunga Malombe:
 I'm currently working on Daraja API integration to a licensing application using laravel <br>I'm looking for help in integrating the same<br>I'm currently learning VueJs<br>Ak me about laravel and java<br>The first 1GB hard drive, introduced by IBM in 1980, weighed over 500 pounds and cost around $40,000.
 
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=atriexz4pato&label=Visitors&color=0&icon=5&pretty=false" />
+</a>
 
 ## 🌐 Socials:
 [![Facebook]([https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white](https://www.facebook.com/patriexz.pt?mibextid=ZbWKwL))](https://facebook.com/Kush Malombe) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/atriexz_4pato) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/atriexz) 
